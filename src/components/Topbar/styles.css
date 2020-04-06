@@ -1,0 +1,55 @@
+.header {
+    width: 100%;
+    position: fixed;
+    z-index: 1000;
+    top: 0;
+    background-color: rgba(255, 255, 255, 0.9);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 3vw 1.5vw 1.5vw 3vw ;
+}
+
+.title {
+    font-size: 7vw;
+    color: #082736;
+    font-weight: 900;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    font-family: Raleway,Helvetica Neue,Helvetica,sans-serif;
+    line-height: 0.1em;
+    margin: .5em 0em;
+}
+
+.img-area {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    padding: .5vw;
+    text-decoration: none;
+}
+
+.img {
+    height: 5vw;
+    padding-right: .8em;
+}
+
+.img-lbl {
+    font-weight: bold;
+    font-size: 4vw;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-family: Raleway,Helvetica Neue,Helvetica,sans-serif;
+    margin: 0;
+}
+
+#github{
+    color: #000;
+}
+
+#linkedin{
+    color: #0077B5
+}
