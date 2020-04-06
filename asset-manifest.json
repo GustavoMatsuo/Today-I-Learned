@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Today-I-Learned/static/css/main.e1ff0124.chunk.css",
+    "main.js": "/Today-I-Learned/static/js/main.48f0d660.chunk.js",
+    "main.js.map": "/Today-I-Learned/static/js/main.48f0d660.chunk.js.map",
+    "runtime-main.js": "/Today-I-Learned/static/js/runtime-main.28c49224.js",
+    "runtime-main.js.map": "/Today-I-Learned/static/js/runtime-main.28c49224.js.map",
+    "static/js/2.f767dec8.chunk.js": "/Today-I-Learned/static/js/2.f767dec8.chunk.js",
+    "static/js/2.f767dec8.chunk.js.map": "/Today-I-Learned/static/js/2.f767dec8.chunk.js.map",
+    "index.html": "/Today-I-Learned/index.html",
+    "precache-manifest.3296d853041c4026df83f24a915a7e5d.js": "/Today-I-Learned/precache-manifest.3296d853041c4026df83f24a915a7e5d.js",
+    "service-worker.js": "/Today-I-Learned/service-worker.js",
+    "static/css/main.e1ff0124.chunk.css.map": "/Today-I-Learned/static/css/main.e1ff0124.chunk.css.map",
+    "static/js/2.f767dec8.chunk.js.LICENSE.txt": "/Today-I-Learned/static/js/2.f767dec8.chunk.js.LICENSE.txt",
+    "static/media/2020-04-06.md": "/Today-I-Learned/static/media/2020-04-06.c850bb8d.md",
+    "static/media/github-white.svg": "/Today-I-Learned/static/media/github-white.74f58ac7.svg",
+    "static/media/github.svg": "/Today-I-Learned/static/media/github.617870e4.svg",
+    "static/media/linkedin-white.svg": "/Today-I-Learned/static/media/linkedin-white.2d0c2a36.svg",
+    "static/media/linkedin.svg": "/Today-I-Learned/static/media/linkedin.eb091578.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28c49224.js",
+    "static/js/2.f767dec8.chunk.js",
+    "static/css/main.e1ff0124.chunk.css",
+    "static/js/main.48f0d660.chunk.js"
+  ]
+}
